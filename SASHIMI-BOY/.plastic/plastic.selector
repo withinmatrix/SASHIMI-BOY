@@ -1,0 +1,4 @@
+repository "SASHIMI-BOY 2026-03-31_21-22-36/SASHIMI-BOY@14569735464572@cloud"
+  path "/"
+    br "/main"
+    co "/main"
